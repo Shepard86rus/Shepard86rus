@@ -7,7 +7,7 @@ decoy-сайты — одним скриптом.
 
 - 📦 **Релизы**: [releases](https://github.com/Shepard86rus/3x-ui-dual-domain/releases)
 - 🚀 **Установка в три команды** — в [README проекта](https://github.com/Shepard86rus/3x-ui-dual-domain#получение)
-- ☕ **Поддержать**: [Boosty](https://boosty.to/shepard86rus/donate) · [ЮMoney](https://yoomoney.ru/to/4100175017397)
+- ☕ **Поддержать**: [Boosty](https://boosty.to/shepard86rus/donate)
 - 🐛 Баги и предложения — в [ишуях](https://github.com/Shepard86rus/3x-ui-dual-domain/issues)
 
 *Свободный софт (GPL-3.0). Пользуйся и дорабатывай.*
